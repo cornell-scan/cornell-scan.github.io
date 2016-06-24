@@ -1,0 +1,13 @@
+title: Cornell Scientific Computing and Numerics (SCAN) Seminar
+email: bindel@cs.cornell.edu
+description: >
+  The SCAN seminar covers methods of scientific computing, analysis of
+  their convergence properties and computational efficiency, and adaptation
+  to specific applications.
+baseurl: "/~bindel/scan"
+url: "http://www.cs.cornell.edu"
+future: true
+exclude: ["Rakefile"]
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,14 @@
+---
+layout: default
+nav: past
+---
+
+<div class="page-header">
+<h1>Scientific Computing and Numerics (SCAN) Seminar</h1>
+</div>
+
+<ul>
+{% for entry in site.data.semesters %}
+<li><a href="{{ entry.url }}">{{ entry.info }}</a></li>
+{% endfor %}
+</ul>
