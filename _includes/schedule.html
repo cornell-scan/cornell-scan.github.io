@@ -34,11 +34,11 @@
       {{ talk.speaker.name }}
       {% endif %}
       {% if talk.speaker.affil %}({{ talk.speaker.affil }}){% endif %}
-      {% if talk.title %}
+      {% if talk.title %}{% if talk.title != "TBA" %}
       <div style="text-indent: 5%;">
       <a href="{% if talk.abstract_url %}{{ talk.abstract_url }}{% else %}{{ site.baseurl }}{{ talk.url }}{% endif %}">{{ talk.title }}</a>
       </div>
-      {% endif %}
+      {% endif %}{% endif %}
     </td>
     {% else %}
     <td class="alt"></td>
