@@ -1,6 +1,7 @@
 #!/bin/sh
 
 cd /home/bindel/work/scan-seminar/
+git pull origin
 jekyll build
 cd _site
 rc=$(mktemp)
