@@ -15,7 +15,9 @@ rebuild the web pages and push them to the server.
 
 Talk posts are stored in the `_posts` subdirectory, and are named according
 to the usual Jekyll convention (`YYYY-MM-DD-topic.extension`).
-The [YAML][yaml] header should include title and speaker information:
+I default to using [Markdown][markdown] for formatting (extention `.md`).
+The [YAML][yaml] header should include title and speaker information,
+and the body contains the abstract:
 
     ---
     title: A very important talk
@@ -24,6 +26,12 @@ The [YAML][yaml] header should include title and speaker information:
       affil: CS, Cornell
       url: http://www.cs.cornell.edu/~bindel
     ---
+
+    This is my abstract.  You should read [my paper][paper].
+
+    Joint work with A. Student.
+
+    [paper]: http://dx.doi.org/some/doi
 
 The abstract may either be written in the text below the header or
 (if the speaker insists) it may be indicated in a separate
@@ -68,5 +76,6 @@ pages.
 
 [scan]: http://cse.cornell.edu/scan
 [jekyll]: http://jekyllrb.com/
+[markdown]: https://daringfireball.net/projects/markdown/
 [yaml]: http://jekyllrb.com/docs/frontmatter/
 [bootstrap]: http://getbootstrap.com/
