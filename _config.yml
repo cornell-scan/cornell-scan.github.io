@@ -4,8 +4,10 @@ description: >
   The SCAN seminar covers methods of scientific computing, analysis of
   their convergence properties and computational efficiency, and adaptation
   to specific applications.
-baseurl: "/~bindel/scan"
-url: "http://www.cs.cornell.edu"
+#baseurl: "/~bindel/scan"
+#url: "http://www.cs.cornell.edu"
+baseurl: "/scan"
+url: "http://cse.cornell.edu"
 future: true
 exclude: ["Rakefile"]
 
