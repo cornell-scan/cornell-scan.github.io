@@ -11,6 +11,9 @@
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
+        <li{% if page.nav == "about" %} class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/about.html">About</a>
+        </li>
         <li{% if page.nav == "current" %} class="active"{% endif %}>
           <a href="{{ site.baseurl }}/index.html">Current schedule</a>
         </li>
