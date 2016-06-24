@@ -66,6 +66,8 @@ header field `nav: current` to indicate that this is the schedule for the
 current semester.  The current semester's schedule page should also be
 used as `index.md`.
 
+The list of URLs for all semesters of the seminar is in `_data/semesters.yml`.
+
 ## Style
 
 The current site style is built on [Bootstrap][bootstrap], a small set of
