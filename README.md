@@ -68,5 +68,5 @@ pages.
 
 [scan]: http://cse.cornell.edu/scan
 [jekyll]: http://jekyllrb.com/
-[yaml]: [yaml]: http://jekyllrb.com/docs/frontmatter/
+[yaml]: http://jekyllrb.com/docs/frontmatter/
 [bootstrap]: http://getbootstrap.com/
