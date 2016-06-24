@@ -9,7 +9,21 @@ description: >
 baseurl: "/scan"
 url: "http://cse.cornell.edu"
 future: true
-exclude: ["Rakefile"]
+exclude: ["Rakefile", "README.md"]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "main"
 
 # Build settings
 markdown: kramdown
