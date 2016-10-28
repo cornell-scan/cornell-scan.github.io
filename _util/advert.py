@@ -1,6 +1,10 @@
+#!/usr/bin/env python
+
 import os
 import sys
 import yaml
+from datetime import datetime, timedelta
+import glob
 
 email = """
 To: scan-seminar-l@cornell.edu
@@ -15,7 +19,14 @@ Abstract:
 {abstract}
 """
 
-for fname in sys.argv[1:]:
+if len(sys.argv) > 1:
+    fnames = sys.argv[1:]
+else:
+    today = datetime.today()
+    next_mon = today + timedelta(7-today.weekday())
+    fnames = glob.glob("_posts/{0:%Y}-{0:%m}-{0:%d}-*.md".format(next_mon))
+
+for fname in fnames:
     # Slurp up the post file
     with open(fname, 'r') as f:
         lines = f.readlines()
