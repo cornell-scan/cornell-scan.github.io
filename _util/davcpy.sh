@@ -8,7 +8,7 @@ rc=$(mktemp)
 
 {
     echo "open https://static-webdav.kproxy.cornell.edu/cse" 
-    find "." -type d | xargs -I{} echo 'mkcol scan/'{}
+    find "." -type d | colrm 1 2 | xargs -I{} echo 'mkcol scan/'{}
     find "." -type f \
     -exec echo 'cd scan/'$(dirname {}) \; \
     -exec echo 'lcd '$(dirname {}) \; \
@@ -17,6 +17,7 @@ rc=$(mktemp)
     -exec echo 'lcd /home/bindel/work/scan-seminar/_site' \;
     echo "quit";
 } > "$rc";
+cat $rc
 
 cadaver -r "$rc" "$@" 
 rm -f "$rc"
