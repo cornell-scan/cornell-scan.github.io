@@ -1,8 +1,5 @@
 desc "Manage web site publication"
 
-# Settings
-dest = "/mnt/MyWeb/scan"  # Destination
-
 task :serve do
   sh "jekyll serve"
 end
@@ -16,5 +13,5 @@ task :build do
 end
 
 task :deploy => [:build] do
-  sh "rsync -avzL _site/ #{dest}"
+  sh "sitecopy --update scan"
 end
