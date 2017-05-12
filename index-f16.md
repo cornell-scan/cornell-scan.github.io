@@ -2,7 +2,6 @@
 layout: schedule
 semester: Fall
 year: 2016
-nav: current
 ---
 
 The focus of this seminar is various methods in scientific computing,
