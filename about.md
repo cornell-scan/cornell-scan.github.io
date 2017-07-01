@@ -8,7 +8,7 @@ the analysis of their convergence properties and computational efficiency,
 and their adaptation to specific applications.
 
 Questions or comments about the seminar should be sent to
-[David Bindel][bindel] or [Alex Vladimirsky][vlad].
+[David Bindel][bindel], [Alex Townsend][ajt] or [Alex Vladimirsky][vlad].
 Please send email with the subject `join`
 to `scan-seminar-l-request@cornell.edu`
 if you wish to subscribe to the seminar announcement mailing list.
@@ -19,4 +19,5 @@ information.
 The seminar meets Mondays, 1:25-2:15 pm, in 406 Gates Hall.
 
 [bindel]: http://www.cs.cornell.edu/~bindel
+[ajt]: http://www.math.cornell.edu/~ajt
 [vlad]: http://www.math.cornell.edu/~vlad
