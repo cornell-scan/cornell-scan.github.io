@@ -16,7 +16,7 @@ Students who plan to attend regularly may take the seminar for credit
 as CS 7290 or MATH 7290, and should contact the organizers for more
 information.
 
-The seminar meets Mondays, 1:25-2:15 pm, in 405 Gates Hall.
+The seminar meets Mondays, 1:25-2:15 pm, in 406 Gates Hall.
 
 [bindel]: http://www.cs.cornell.edu/~bindel
 [ajt]: http://www.math.cornell.edu/~ajt
