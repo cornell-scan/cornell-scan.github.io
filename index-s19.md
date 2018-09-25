@@ -1,8 +1,7 @@
 ---
 layout: schedule
-semester: Fall
-year: 2018
-nav: current
+semester: Spring
+year: 2019
 ---
 
 The focus of this seminar is various methods in scientific computing,
