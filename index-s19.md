@@ -2,7 +2,6 @@
 layout: schedule
 semester: Spring
 year: 2019
-nav: current
 ---
 
 The focus of this seminar is various methods in scientific computing,
