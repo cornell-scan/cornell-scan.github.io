@@ -1,6 +1,6 @@
 ---
 layout: schedule
-semester: Spring
+semester: Fall
 year: 2019
 nav: current
 ---
