@@ -1,9 +1,9 @@
 ---
 title: TBA
-speaker: Yuji Nakatsukasa
-name:
-affil: 
-url: 
+speaker: 
+  name: Yuji Nakatsukasa
+  affil: 
+  url: 
 ---
 
 TBA
