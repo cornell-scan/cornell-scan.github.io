@@ -16,8 +16,6 @@ Students who plan to attend regularly may take the seminar for credit
 as CS 7290 or MATH 7290, and should contact the organizers for more
 information.
 
-The seminar meets Mondays, 1:25-2:15 pm, over Zoom.
-
 [bindel]: http://www.cs.cornell.edu/~bindel
 [damle]: https://www.cs.cornell.edu/~damle/
 [ajt]: http://www.math.cornell.edu/~ajt
