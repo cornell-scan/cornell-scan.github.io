@@ -1,7 +1,7 @@
 ---
 title: TBA
 speaker:
-name: Bart Vandereycken
+  name: Bart Vandereycken
   affil: 
   url: 
 ---
