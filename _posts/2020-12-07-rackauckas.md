@@ -2,8 +2,8 @@
 title: TBA
 speaker:
   name: Chris Rackauckas
-  affil: 
-  url: 
+  affil: Mathematics, MIT
+  url: https://chrisrackauckas.com/
 ---
 
 TBA
