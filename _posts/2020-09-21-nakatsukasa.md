@@ -2,8 +2,8 @@
 title: TBA
 speaker: 
   name: Yuji Nakatsukasa
-  affil: 
-  url: 
+  affil: Mathematics, University of Oxford
+  url: https://people.maths.ox.ac.uk/nakatsukasa/
 ---
 
 TBA
