@@ -6,5 +6,7 @@ speaker:
   url: https://sites.google.com/view/lnurbek/home
 ---
 
+**Note change of location: Gates 114**
+
 TBA
 
