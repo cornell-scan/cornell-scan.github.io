@@ -1,5 +1,5 @@
 ---
-title: TBA
+title: Best (Worst-Case) Linear Predictors
 speaker:
   name: José Montiel Olea
   affil: Department of Economics, Cornell University
