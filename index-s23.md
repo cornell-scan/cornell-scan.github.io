@@ -1,6 +1,6 @@
 ---
 layout: schedule
-semester: Fall
+semester: Spring
 year: 2023
 ---
 
