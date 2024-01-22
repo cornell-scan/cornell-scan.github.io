@@ -2,7 +2,7 @@
 title: TBA
 speaker:
   name: Fabian Faulstich
-  affil: 
+  affil: Rensselaer Polytechnic Institute
   url: 
 ---
 
