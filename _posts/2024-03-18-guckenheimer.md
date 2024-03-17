@@ -19,3 +19,4 @@ prevailing standard of "persistent excitation" in adaptive control. Ongoing
 work will seek to further characterize the swimming behavior of these fish as
 stochastic, dynamical systems.
 
+The seminar will meet in Rhodes Hall, Room 571. 
