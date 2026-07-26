@@ -2,7 +2,7 @@
 title: TBA
 speaker:
   name: Christian Parkinson
-  affil: Math, Michigan State University
+  affil: Michigan State, Math
   url: https://sites.google.com/msu.edu/chparkin
 ---
 

@@ -2,7 +2,7 @@
 title: TBA
 speaker:
   name: Gökçe Dayanikli
-  affil: Statistics, UIUC
+  affil: UIUC, Statistics
   url: https://www.gokcedayanikli.com/
 ---
 
